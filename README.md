@@ -1,6 +1,6 @@
 ## Telegram Python Bot
 
-Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/a0ln90?referralCode=CODE)
 
 ## Overview
 
@@ -62,3 +62,4 @@ Open Telegram, start a chat with your bot, and try the commands `/start` or `
 - [Poetry Documentation](https://python-poetry.org/docs/)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [Railway Documentation](https://docs.railway.app/)
+- [Telegram Python Bot Repository](https://github.com/aeither/telegram-bot-python/)
